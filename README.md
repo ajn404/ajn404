@@ -6,4 +6,4 @@
 - 🏍  Chinese
 - 💻 Web_developer
 - ⚡ The self-cultivation of leek stems.
-- 😥 现在有点迷茫，要学的太多了
+- 😥 now grow up
