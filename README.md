@@ -1,9 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajn404&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="Jioby's GitHub stats" />
-
-<h2 align="center">Hi, I'm <a href="https://blog.csdn.net/xiaojohnjiu">ajn404</a> 🎉</h1>
-
-
-- 🏍  Chinese
-- 💻 Web_developer
-- ⚡ The self-cultivation of leek stems.
-- 😥 now grow up
+<h1>&#x1F648</h1><h1>&#x1F649</h1>
+<h1>&#x1F650</h1><h1>&#x1F651</h1>
+<h1>&#x1F652</h1><h1>&#x1F653</h1>
+<h1>&#x1F654</h1><h1>&#x1F655</h1>
+<h1>&#x1F656</h1><h1>&#x1F657</h1>
+<h1>&#x1F658</h1><h1>&#x1F659</h1>
+<h1>&#x1F660</h1><h1>&#x1F661</h1>
+<h1>&#x1F662</h1><h1>&#x1F663</h1>
+<h1>&#x1F664</h1><h1>&#x1F665</h1>
