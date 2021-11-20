@@ -1,7 +1,9 @@
 <h1>&#74529咸鱼一条</h1>
 <i>没有猫:cat:</i>
 <br>
-正在写的博客：https://ajn404.github.io/ngm.github.io/
+正在写的博客：
+gitpage:https://ajn404.github.io/ngm.github.io/
+netlify部署地址:https://thirsty-johnson-04852d.netlify.app/
 <br>
 之前写的博客：https://ajn404.github.io/log.github.io/
 <br>
