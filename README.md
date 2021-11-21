@@ -5,7 +5,7 @@
 <br>
 gitpage:https://ajn404.github.io/ngm.github.io/
 <br>
-netlify部署地址:https://thirsty-johnson-04852d.netlify.app/
+netlify部署地址:https://ngm.netlify.app/
 <br>
 之前写的博客：https://ajn404.github.io/log.github.io/
 <br>
