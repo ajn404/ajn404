@@ -12,15 +12,16 @@ netlify部署地址:https://ngm.netlify.app/
 公司正在做的项目: vue2 + element ui , ueditor百度富文本二次开发
 <br>
 自己正在学：
-- 算法
-- vue3 
-- typescript
-- element-plus
-- vite
-- go
-- ml
-#### gitpages:
+- **算法**
+- **vue3** 
+- **typescript**
+- **element-plus**
+- **vite**
+- **go**
+- **ml**
+### gitpages:
 
-##### [vue3 vite hello world](ajn404.github.io/vitev3/)
+#### [vue3 vite hello world](ajn404.github.io/vitev3/)
 
-##### [gsap react](ajn404.github.io/gsap_ex/)
+#### [gsap react](ajn404.github.io/gsap_ex/)
+
