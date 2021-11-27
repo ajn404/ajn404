@@ -1,5 +1,3 @@
-<h1>&#74529咸鱼一条</h1>
-<i>没有猫:cat:</i>
 <br>
 正在写的博客：
 <br>
@@ -11,15 +9,16 @@ netlify部署地址:https://ngm.netlify.app/
 <br>
 公司正在做的项目: vue2 + element ui , ueditor百度富文本二次开发
 <br>
-自己正在学：
-- **算法**
-- **vue3** 
-- **typescript**
-- **element-plus**
-- **vite**
-- **go**
-- **ml**
-### gitpages:
+最近在看的：
+- 算法
+- vue3 
+- typescript
+- element-plus
+- vite
+- go
+- ml
+<br>
+<h3>gitpages:</h3>
 
 #### [vue3 vite hello world](ajn404.github.io/vitev3/)
 
