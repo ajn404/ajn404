@@ -25,3 +25,6 @@ netlify部署地址:https://ngm.netlify.app/
 #### [gsap react](https://ajn404.github.io/gsap_ex/)
 
 #### [大学时写的博客](https://ajn404.github.io/log.github.io/)
+
+
+#### 脱离项目的技术似乎是'无意义'的，但js这么好玩，我忍不了
