@@ -20,7 +20,7 @@ netlify部署地址:https://ngm.netlify.app/
 <br>
 <h3>gitpages:</h3>
 
-#### [vue3 vite hello world](https://ajn404.github.io/vitev3/)
+#### [vue3 vite hello world](https://ajn404.github.io/viteV3/)
 
 #### [gsap react](https://ajn404.github.io/gsap_ex/)
 
