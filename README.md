@@ -15,7 +15,8 @@ netlify部署地址:https://ngm.netlify.app/
 - go
 - ml
 - react
-- dicom 时常有去回顾一下毕设项目，抄的这个[OHIF](https://github.com/OHIF/Viewers)
+- dicom 
+<h3>时常有去回顾一下毕设项目抄的这[OHIF](https://github.com/OHIF/Viewers)</h3>
 <br>
 <h3>gitpages:</h3>
 
