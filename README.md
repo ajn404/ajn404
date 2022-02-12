@@ -4,6 +4,8 @@ https://ajn404.github.io/ngm.github.io/
 <br>
 https://ngm.netlify.app/
 <br>
+学校项目:dicom图像可视化，uniapp小程序
+<br>
 悉息科技项目:react17+Echarts工业互联网数据可视化项目
 <br>
 珍岛项目:可视化建站，vue2 + element ui管理后台, vue2 + vuex可视化，以及公共组件的开发和维护
