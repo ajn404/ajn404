@@ -25,8 +25,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A note for extending my fontend skill](https://ajn404.gitee.io/note/markdown/notes/extends.html#skicky-position-element-plus-%E6%97%A0%E9%99%90%E6%BB%9A%E5%8A%A8-%E6%97%A0%E9%99%90%E8%8E%B7%E5%8F%96%E5%86%B7%E7%AC%91%E8%AF%9D%E3%80%90%E7%AC%91%E3%80%91)
-- [deploy tauri website ](https://yourblog.com/](https://ajn404.github.io/vue3_tauri_fun/#/index)
+- [A note for extending my frontend skill](https://ajn404.gitee.io/note/markdown/notes/extends.html#skicky-position-element-plus-%E6%97%A0%E9%99%90%E6%BB%9A%E5%8A%A8-%E6%97%A0%E9%99%90%E8%8E%B7%E5%8F%96%E5%86%B7%E7%AC%91%E8%AF%9D%E3%80%90%E7%AC%91%E3%80%91)
+- [deploy tauri website ](https://ajn404.github.io/vue3_tauri_fun/#/index)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
