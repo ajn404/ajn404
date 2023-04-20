@@ -11,7 +11,7 @@
 
 ##  GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajn404)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajn404)](https://github.com/DenverCoder1/github-readme-streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajn404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
