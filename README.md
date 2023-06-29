@@ -1,7 +1,7 @@
 # Hi there, I'm Ajn404 
 
 [![GitHub followers](https://img.shields.io/github/followers/ajn404?label=Follow&style=social)](https://github.com/ajn404)
-![Profile views](https://gpvc.arturio.dev/ajn404)
+
 
 ##  Skills
 
