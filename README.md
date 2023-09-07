@@ -2,6 +2,12 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ajn404?label=Follow&style=social)](https://github.com/ajn404)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajn404/ajn404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajn404/ajn404/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajn404/ajn404/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 
 ##  Skills
 
